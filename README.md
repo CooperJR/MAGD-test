@@ -4,11 +4,15 @@ Below are 5 projects I've done for my MAGD class.
 
 ## Project 1 : Nature Scenery 
 
+In this project, we had to create a class that could be repeated throughout the sketch with different variables
+
 [Link to source code]: (https://github.com/CooperJR/MAGD-test/blob/gh-pages/f19magd150lab07_cooper/sketch.js)
 
 [HTML]: (https://github.com/CooperJR/MAGD-test/blob/gh-pages/f19magd150lab07_cooper/f19magd150lab07_cooper.html)
 
 ## Project 2 : Rotating Camera
+
+For this project, we had to create a camera and implement lights around the sketch.
 
 [Link to source code]: (https://github.com/CooperJR/MAGD-test/blob/gh-pages/f19magd150_lab10_cooper/sketch.js)
 
@@ -16,17 +20,23 @@ Below are 5 projects I've done for my MAGD class.
 
 ## Project 3 : Pizza Maker
 
+In this sketch, you can create a pepperoni pizzas with loops.
+
 [Link the source code]: (https://github.com/CooperJR/MAGD-test/blob/gh-pages/f19magd150lab04_cooper/sketch.js)
 
 [HTML]: (https://github.com/CooperJR/MAGD-test/blob/gh-pages/f19magd150lab04_cooper/f19magd150lab04_cooper.html)
 
 ## Project 4 : Tiny TV 
 
+In this project, you can click the power button of a TV and change what appears on screen.
+
 [Link to source code]: (https://github.com/CooperJR/MAGD-test/blob/gh-pages/f19magd150lab05_cooper/sketch.js)
 
 [HTML]: (https://github.com/CooperJR/MAGD-test/blob/gh-pages/f19magd150lab05_cooper/f19magd150lab05_cooper.html)
 
 ## Project 5 : Pong
+
+In this project, you can see a game of Pong playing out.
 
 [Link to source code]: (https://github.com/CooperJR/MAGD-test/blob/gh-pages/f19magd150lab06_cooper/sketch.js)
 
